@@ -245,7 +245,6 @@ body {
 }
 
 @container resume (width < 520px) {
-
     .resume-section__skills {
         grid-template-columns: 1fr;
     }
