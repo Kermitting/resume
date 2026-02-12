@@ -248,6 +248,7 @@ body {
     .resume-section__skills {
         grid-template-columns: 1fr;
     }
+
     .u-grid-col-2 {
         grid-column: 1;
     }
