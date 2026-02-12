@@ -205,6 +205,7 @@ button {
 
     .sidebar,
     .resume-section {
+        padding: 50px 25px;
         grid-column: 1;
     }
 
